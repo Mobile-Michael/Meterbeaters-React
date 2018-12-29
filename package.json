@@ -1,0 +1,35 @@
+{
+  "name": "meterbeaters",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/markerclustererplus": "^2.1.33",
+    "@types/react-geosuggest": "^2.7.8",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.2.1",
+    "moment": "^2.23.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-geosuggest": "^2.9.0",
+    "react-google-maps": "^9.4.5",
+    "react-moment": "^0.8.4",
+    "react-scripts": "2.1.2",
+    "react-time-picker": "^3.1.1",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
